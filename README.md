@@ -1,3 +1,44 @@
+## Description détaillée du projet
+Ce projet consiste à gérer les chantiers BTP, développé par le framework Laravel, ce projet est effectué par une équipe de deux personnes.
+### Acteurs :
+ - Admin
+ - Responsable des tâches
+### Fonctionnalités :
+#### Coté admin et responable des tâches:
+ - Authentification
+ - Gestion du profil
+ - Gestion des besoins de chaque tâche
+#### Coté admin :
+ - Gestion des projets (chantiers)
+ - Gestion des tâches
+ - Gestion des comptes des responsables des tâches
+ - Gestion des articles
+ - Gestion des matériels
+ - Gestion des fournisseurs
+#### Coté responsable des tâches :
+ - Gestion de stock
+### Ma mission : 
+#### Coté administrateur :
+ - Gestion du profil
+ - Gestion des comptes des responsables des tâches
+ - Gestion des matériels
+ - Gestion des projets
+ - Gestion des besoins des articles et des matériels
+#### Coté responsable des tâches :
+ - Gestion du profil
+ - Gestion des besoins des articles
+ ### Environnement technique : 
+ - PHP
+ - Laravel
+ - Ajax
+ - Javascript
+ - CSS
+ - Bootstrap
+ - UML
+ - MySQL
+ - 2TUP
+ - Gantt Project 
+ 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
